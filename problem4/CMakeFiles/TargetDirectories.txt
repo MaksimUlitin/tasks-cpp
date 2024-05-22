@@ -1,0 +1,4 @@
+/home/xqweens/cppProj/problemsAlgProg/problem4/CMakeFiles/film.dir
+/home/xqweens/cppProj/problemsAlgProg/problem4/CMakeFiles/problem4.dir
+/home/xqweens/cppProj/problemsAlgProg/problem4/CMakeFiles/edit_cache.dir
+/home/xqweens/cppProj/problemsAlgProg/problem4/CMakeFiles/rebuild_cache.dir

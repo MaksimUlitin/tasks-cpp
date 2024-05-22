@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfilm.a CMakeFiles/film.dir/Film.cpp.o
+/usr/bin/ranlib libfilm.a
